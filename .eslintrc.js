@@ -14,9 +14,9 @@ module.exports = {
   },
   plugins: ['react'],
   rules: {
-    'react/prop-types': 'off',
-    'react/react-in-jsx-scope': 'off',
-    'react/self-closing-comp': 'off',
-    'react/jsx-filename-extension': [1, { extensions: ['.js', '.jsx'] }],
+    // 'react/prop-types': 'off',
+    // 'react/react-in-jsx-scope': 'off',
+    // 'react/self-closing-comp': 'off',
+    // 'react/jsx-filename-extension': [1, { extensions: ['.js', '.jsx'] }],
   },
 };
