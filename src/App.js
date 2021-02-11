@@ -1,7 +1,7 @@
 import './App.css';
 
 function App() {
-  const holaaa = 'Hola';
+  let a;
   return <div className="App">Hola</div>;
 }
 
