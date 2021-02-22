@@ -28,7 +28,7 @@ function App() {
           <BrowserRouter>
             <Switch>
               <Route path="/">
-                <Home name="Home" />
+                <Home name="home" />
               </Route>
             </Switch>
           </BrowserRouter>

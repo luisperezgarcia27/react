@@ -1,3 +1,6 @@
 {
-  "locale": "es-mx"
+  "locale": "es-mx",
+  "home": {
+    "home": "Principal"
+  }
 }

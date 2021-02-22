@@ -1,3 +1,6 @@
 {
-  "locale": "en-us"
+  "locale": "en-us",
+  "home": {
+    "home": "Home"
+  }
 }
