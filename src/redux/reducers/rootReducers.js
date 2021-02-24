@@ -7,7 +7,6 @@ const rootReducer = combineReducers({
 });
 const appReducer = (state, action) => {
   if (action.type === 'RESET_APP') {
-    // eslint-disable-next-line no-return-assign
     return state || {};
   }
   return rootReducer(state, action);
